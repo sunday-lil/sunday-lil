@@ -37,7 +37,7 @@ IDM 式多线程下载器 + Chrome/Edge 扩展。
 - **21 站平台识别**：B 站 / YouTube / 抖音 / TikTok / X / Instagram … 交 yt-dlp；PornHub 原生解析；DRM 站点只识别不下载
 - **浏览器扩展**：页面浮标、右键菜单、自动捕获所有标签页、WebSocket 实时进度
 
-`Python` · `Manifest V3` · `yt-dlp` · `ffmpeg` · 45 个用例 · MIT
+`Python` · `Manifest V3` · `yt-dlp` · `ffmpeg` · 45 个用例 · CI 覆盖 Python 3.12/3.15 × ubuntu/windows · MIT
 
 ### 📦 [panl](https://github.com/sunday-lil/panl) · [![CI](https://github.com/sunday-lil/panl/actions/workflows/ci.yml/badge.svg)](https://github.com/sunday-lil/panl/actions)
 
@@ -102,6 +102,7 @@ IDM 式多线程下载器 + Chrome/Edge 扩展。
 - 🆕 `grabdown` v0.3.1 — 分段下载 + HLS/AES + 21 站平台识别 + 扩展（[release](https://github.com/sunday-lil/grabdown/releases/latest)）
 - 🆕 `panl` v0.1.1 — 10 家网盘直链 + 桌面 GUI + 转存（[release](https://github.com/sunday-lil/panl/releases/latest)）
 - 🌿 `jingyu` — 隐私优先的疗愈平台，仍在迭代
+- 🔧 两个工具的 CI 现已覆盖 **Python 3.12 与 3.15**（ubuntu + windows 双平台）
 
 ---
 
